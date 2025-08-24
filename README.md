@@ -4,9 +4,9 @@
 
 ### 🎓 Computer Science Student @ FIU | 🚀 Aspiring Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aalfonsog00.github.io-blue?style=flat-square&logo=google-chrome)](https://aalfonsog00.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--alfonso--gonzalez-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/alejandro-alfonso-gonzalez)
-[![Email](https://img.shields.io/badge/Email-alejandroalfonso4427%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:alejandroalfonso4427@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aalfonsog00.github.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroalfonso4427@gmail.com)
 
 </div>
 
