@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,100:C9A84C&height=200&section=header&text=Alejandro%20Alfonso%20Gonzalez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20FIU%20%7C%20Break%20Through%20Tech%20AI%20Fellow%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=15&descColor=FFE08A" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,50:4A90D9,100:C99700&height=210&section=header&text=Alejandro%20Alfonso%20Gonzalez&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20FIU%20%7C%20Break%20Through%20Tech%20AI%20Fellow%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=15&descColor=EAF4FF" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aalfonsog00.github.io-C9A84C?style=for-the-badge&logo=firefox&logoColor=white)](https://aalfonsog00.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
-[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroalfonso4427@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aalfonsog00-002147?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/aalfonsog00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://aalfonsog00.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroalfonso4427@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00)
 
 </div>
 
@@ -14,14 +14,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name      : Alejandro Alfonso Gonzalez
-Degree    : B.S. Computer Science @ Florida International University
-GPA       : 3.95 — Dean's List (Spring 2025 – Present)
-Role      : Teaching Assistant – Quantum Computing (FIU, Spring 2026)
-Fellowship: Break Through Tech AI Program Fellow 2026–2027
-Location  : Miami, FL
-Languages : English (Advanced) · Spanish (Native)
-Status    : Open to SWE Internships & Entry-Level Roles
+Name       : Alejandro Alfonso Gonzalez
+Degree     : B.S. in Computer Science @ Florida International University
+GPA        : 3.95 / 4.0
+Role       : Teaching Assistant — Quantum Computing
+Fellowship : Break Through Tech AI Program Fellow (2026–2027)
+Focus      : Software Engineering, AI/ML, Full-Stack Development
+Location   : Miami, Florida
+Status     : Open to internships and entry-level opportunities
 ```
 
 ---
@@ -30,11 +30,11 @@ Status    : Open to SWE Internships & Entry-Level Roles
 
 <div align="center">
 
-![Break Through Tech](https://img.shields.io/badge/Break%20Through%20Tech-AI%20Fellow%202026--2027-002147?style=for-the-badge&logoColor=C9A84C)
-![Dean's List](https://img.shields.io/badge/Dean's%20List-FIU%20%26%20MDC-0A66C2?style=for-the-badge&logoColor=white)
-![Phi Theta Kappa](https://img.shields.io/badge/Phi%20Theta%20Kappa-Honor%20Society-C9A84C?style=for-the-badge&logoColor=002147)
-![Academic Excellence](https://img.shields.io/badge/Academic%20Excellence%20Award-MDC%202024-1A7F4B?style=for-the-badge&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.95%2F4.0-4A90D9?style=for-the-badge&logoColor=white)
+![Break Through Tech AI Fellow](https://img.shields.io/badge/Break%20Through%20Tech%20AI%20Fellow-4A2E8C?style=for-the-badge&logoColor=white)
+![Dean's List](https://img.shields.io/badge/Dean's%20List-1F3864?style=for-the-badge&logoColor=white)
+![Phi Theta Kappa](https://img.shields.io/badge/Phi%20Theta%20Kappa-C99700?style=for-the-badge&logoColor=white)
+![Academic Excellence Award](https://img.shields.io/badge/Academic%20Excellence%20Award-00A86B?style=for-the-badge&logoColor=white)
+![GPA 3.95](https://img.shields.io/badge/GPA%203.95-4A90D9?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -43,64 +43,72 @@ Status    : Open to SWE Internships & Entry-Level Roles
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-C9A84C?style=for-the-badge&logo=openjdk&logoColor=002147)
-![Python](https://img.shields.io/badge/Python-002147?style=for-the-badge&logo=python&logoColor=C9A84C)
-![C++](https://img.shields.io/badge/C%2B%2B-0A66C2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-4A90D9?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-C9A84C?style=for-the-badge&logo=javascript&logoColor=002147)
-![SQL](https://img.shields.io/badge/SQL-002147?style=for-the-badge&logo=postgresql&logoColor=4A90D9)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4A90D9?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-002147?style=for-the-badge&logo=flask&logoColor=C9A84C)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-0A66C2?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1A7F4B?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4A90D9?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-C9A84C?style=for-the-badge&logo=git&logoColor=002147)
-![GitHub](https://img.shields.io/badge/GitHub-002147?style=for-the-badge&logo=github&logoColor=C9A84C)
-![Vercel](https://img.shields.io/badge/Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-4A90D9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-C9A84C?style=for-the-badge&logo=figma&logoColor=002147)
-![Jupyter](https://img.shields.io/badge/Jupyter-002147?style=for-the-badge&logo=jupyter&logoColor=C9A84C)
-![Linux](https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-4A90D9?style=for-the-badge&logo=ibm&logoColor=white)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎨 [TileVision — AI-Powered Tile Design Platform](https://aalfonsog00.github.io)
-> `JavaScript ES6+` `OpenAI GPT-3.5` `Gemini API` `Vercel Serverless` `HTML5/CSS3`
+### 🎨 TileVision — AI-Powered Tile Design Platform
+> `JavaScript ES6+` `OpenAI GPT-3.5` `Gemini API` `Vercel Serverless Functions` `HTML5/CSS3`
 
-**Deployed production-ready platform** built for D&B Tiles — AI-assisted tile visualization and quote generation for homeowners, contractors, and sales reps.
+Deployed production-ready platform that helps users visualize, customize, and request quotes for tile designs through both a guided flow and an AI assistant.
 
 | Feature | Details |
 |---|---|
-| 🤖 Dual AI Integration | OpenAI GPT-3.5 + Google Gemini for chat & photorealistic renders |
-| 🔒 Secure Deployment | Serverless proxy layer on Vercel — API keys server-side only |
-| 🏗️ Architecture | 28+ modular JS components with dedicated service layers |
-| 📦 Full Workflow | Live inventory, cost estimation, Canvas exports, EmailJS quotes |
+| 🤖 AI Integration | OpenAI GPT-3.5 + Gemini for conversational guidance and room visualizations |
+| 🔒 Deployment | Secure serverless proxy layer deployed on Vercel |
+| 🧱 Architecture | Modular client-side design with dedicated service layers |
+| 📦 Workflow | Inventory browsing, cost estimation, exports, and quote requests |
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-1A7F4B?style=for-the-badge&logo=vercel&logoColor=white)](https://aalfonsog00.github.io)
-[![Source](https://img.shields.io/badge/Source-GitHub-002147?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/aalfonsog00)
+<div align="left">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white)](https://aalfonsog00.github.io)
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00)
+
+</div>
 
 ---
 
-### 🧾 [Invoice Verification System](https://github.com/aalfonsog00)
+### 🧾 Invoice Verification System
 > `Python` `Flask` `pandas` `PyPDF2` `JavaScript` `Bootstrap 5`
 
-**Business automation tool** eliminating manual invoice cross-referencing for D&B Tile's daily operations.
+Business automation tool built to streamline invoice reconciliation and reduce manual verification work.
 
 | Metric | Before | After |
 |---|---|---|
-| ⏱️ Time per batch | 10–15 min | 1–3 min |
+| ⏱️ Verification time | 10–15 min | 1–3 min |
 | ❌ Manual errors | Frequent | Near-zero |
-| 📄 Daily invoices | 100+ manual | 100+ automated |
+| 📄 Daily invoice volume | 100+ | 100+ with automated checks |
 
-[![Source](https://img.shields.io/badge/Source-GitHub-002147?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/aalfonsog00)
+<div align="left">
+
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00)
+
+</div>
 
 ---
 
@@ -108,11 +116,41 @@ Status    : Open to SWE Internships & Entry-Level Roles
 
 <div align="center">
 
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=default" />
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aalfonsog00&theme=tokyonight&hide_border=true)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=default" />
+</picture>
 
 </div>
 
@@ -122,21 +160,19 @@ Status    : Open to SWE Internships & Entry-Level Roles
 
 | Role | Organization | Period |
 |---|---|---|
-| 🤖 AI Program Fellow | Break Through Tech (Cornell Tech) | 2026–2027 |
-| 🧑‍🏫 Teaching Assistant – Quantum Computing | Florida International University | Spring 2026 |
-| 📦 Purchasing & Inventory Assistant | D&B Tile Distributors | Jan 2026–Present |
-| 🤝 Customer Service & Sales Support | D&B Tile Distributors | 2024–Dec 2025 |
+| Break Through Tech AI Program Fellow | Break Through Tech | 2026–2027 |
+| Teaching Assistant — Quantum Computing | Florida International University | Spring 2026 |
+| Purchasing & Inventory Assistant | D&B Tile Distributors | Jan 2026–Present |
+| Customer Service & Sales Support | D&B Tile Distributors | 2024–Dec 2025 |
 
 ---
 
-## 🎯 2026–2027 Goals
+## 🎯 Current Focus
 
-- 🤖 Complete Break Through Tech AI Program — ML course, industry projects, and mentorship
-- 💼 Land a Software Engineering or AI/ML internship
-- 🛠️ Build and deploy 3+ more practical projects
-- 📚 Solve 100+ LeetCode problems and master DSA in Java
-- 🤝 Contribute to open-source projects
-- 🎓 Maintain academic excellence through graduation (Jan 2027)
+- Building strong, practical software engineering projects
+- Strengthening AI/ML skills through Break Through Tech
+- Preparing for internships and entry-level SWE opportunities
+- Practicing data structures, algorithms, and technical interviews
 
 ---
 
@@ -144,11 +180,9 @@ Status    : Open to SWE Internships & Entry-Level Roles
 
 <div align="center">
 
-*Open to internship opportunities, collaborations, referrals, and coffee chats about tech.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=for-the-badge&logo=firefox&logoColor=002147)](https://aalfonsog00.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-002147?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:alejandroalfonso4427@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://aalfonsog00.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroalfonso4427@gmail.com)
 
 </div>
 
@@ -156,7 +190,7 @@ Status    : Open to SWE Internships & Entry-Level Roles
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,100:002147&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C99700,50:4A90D9,100:1F3864&height=100&section=footer" />
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
