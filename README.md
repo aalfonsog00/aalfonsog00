@@ -87,8 +87,8 @@ Deployed production-ready platform that helps users visualize, customize, and re
 
 <div align="left">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white)]([https://aalfonsog00.github.io](https://tilevision-ecru.vercel.app/))
-[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aalfonsog00](https://github.com/aalfonsog00/tilevision))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white)](https://tilevision-ecru.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00/tilevision)
 
 </div>
 
@@ -107,7 +107,7 @@ Business automation tool built to streamline invoice reconciliation and reduce m
 
 <div align="left">
 
-[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aalfonsog00](https://github.com/aalfonsog00/dbtile-invoice-verifier))
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00/dbtile-invoice-verifier)
 
 </div>
 
