@@ -30,11 +30,12 @@ Status     : Open to internships and entry-level opportunities
 
 <div align="center">
 
-![Break Through Tech AI Fellow](https://img.shields.io/badge/Break%20Through%20Tech%20AI%20Fellow-4A2E8C?style=for-the-badge&logoColor=white)
+![Break Through Tech AI Fellow](https://img.shields.io/badge/Break%20Through%20Tech%20AI%20Fellow-00A86B?style=for-the-badge&logoColor=white)
+![Quantum Computing TA](https://img.shields.io/badge/Quantum%20Computing%20TA-4A2E8C?style=for-the-badge&logoColor=white)
+![GPA 3.95](https://img.shields.io/badge/GPA%203.95-C99700?style=for-the-badge&logoColor=white)
 ![Dean's List](https://img.shields.io/badge/Dean's%20List-1F3864?style=for-the-badge&logoColor=white)
-![Phi Theta Kappa](https://img.shields.io/badge/Phi%20Theta%20Kappa-C99700?style=for-the-badge&logoColor=white)
-![Academic Excellence Award](https://img.shields.io/badge/Academic%20Excellence%20Award-00A86B?style=for-the-badge&logoColor=white)
-![GPA 3.95](https://img.shields.io/badge/GPA%203.95-4A90D9?style=for-the-badge&logoColor=white)
+![Phi Theta Kappa](https://img.shields.io/badge/Phi%20Theta%20Kappa%20Honor%20Society-B22222?style=for-the-badge&logoColor=white)
+![Academic Excellence Award](https://img.shields.io/badge/Academic%20Excellence%20Award-4A90D9?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -86,8 +87,8 @@ Deployed production-ready platform that helps users visualize, customize, and re
 
 <div align="left">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white)](https://aalfonsog00.github.io)
-[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white)]([https://aalfonsog00.github.io](https://tilevision-ecru.vercel.app/))
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aalfonsog00](https://github.com/aalfonsog00/tilevision))
 
 </div>
 
@@ -106,7 +107,7 @@ Business automation tool built to streamline invoice reconciliation and reduce m
 
 <div align="left">
 
-[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalfonsog00)
+[![Repository](https://img.shields.io/badge/Repository-1F3864?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aalfonsog00](https://github.com/aalfonsog00/dbtile-invoice-verifier))
 
 </div>
 
