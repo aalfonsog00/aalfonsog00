@@ -113,50 +113,6 @@ Business automation tool built to streamline invoice reconciliation and reduce m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&hide_border=true&theme=default" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="165" src="https://streak-stats.demolab.com?user=aalfonsog00&hide_border=true&theme=default" />
-</picture>
-
-</div>
-
----
-
 ## 💼 Experience & Fellowship
 
 | Role | Organization | Period |
